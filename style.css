@@ -4,9 +4,6 @@
     height: 100%;
     list-style: none;
 }
-/* .header {
-    color: rgb(0, 0, 0);
-} */
 
 .text-bold {
     margin-left: 20px;
@@ -36,7 +33,7 @@
 }
 
 .toggle {
-    float: left;
+    float: right;
     background: none;
 	color: inherit;
 	border: none;
